@@ -1,0 +1,17 @@
+{
+  "name": "pibackup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "startPiBackup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hygy",
+  "license": "ISC",
+  "dependencies": {
+    "drivelist": "^9.1.0",
+    "sd-notify": "^2.8.0",
+    "usb-detection": "^4.10.0"
+  }
+}
